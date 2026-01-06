@@ -12,7 +12,7 @@
 ## ☃️ 팀원 소개
 | 박시하 | 박소현 | 김단하 | 홍예은 |
 |-------|--------|--------|--------|
-| <img src="static/img/image_siha.png" width="150"/> | <img src="static/img/image_sohyeon.png" width="150"/> | <img src="static/img/image_danha.png" width="150"/> | <img src="static/img/image_yeeun.png" width="150"/> |
+| <img src="image/image_siha.png" width="150"/> | <img src="image/image_sohyeon.png" width="150"/> | <img src="image/image_danha.png" width="150"/> | <img src="image/image_yeeun.png" width="150"/> |
 | **팀장<br>데이터 엔지니어<br>데이터 분석가** | **프론트/백엔드 개발자<br>데이터 엔지니어<br>데이터 분석가** | **프론트/백엔드 개발자<br>데이터 분석가** | **프론트/백엔드 개발자<br>데이터 분석가** |
 | - 데이터 엔지니어링<br>- 데이터 전처리 & 데이터 분석<br>- AI & LLM 모델 개발<br>- QA | - 프론트/백엔드 개발<br>- 데이터 엔지니어링<br>- 데이터 전처리 & 데이터 분석<br>- AI & LLM 모델 개발 | - 프론트/백엔드 개발<br>- 데이터 시각화<br>- ML 모델 개발<br>- 금융상품 추천시스템 개발 | - 프론트/백엔드 개발<br>- 데이터 시각화<br>- ML 모델 개발<br>- 금융상품 추천시스템 개발 |
 
