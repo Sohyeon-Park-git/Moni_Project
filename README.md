@@ -42,7 +42,6 @@ Infra : ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style
 
 # 📄 프로젝트 문서
 
-# 📄 문서
 
 <details>
 <summary> 프로젝트 기획서</summary>
