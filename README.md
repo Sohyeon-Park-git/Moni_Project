@@ -42,17 +42,19 @@ Infra : ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style
 
 # 📄 프로젝트 문서
 
+# 📄 문서
+
 <details>
 <summary>📘 프로젝트 기획서</summary>
 
-- [프로젝트 기획서.pdf](report/프로젝트 기획서.pdf)
+- [프로젝트 기획서.pdf](report/프로젝트%20기획서.pdf)
 
 </details>
 
 <details>
 <summary>📗 요구사항 정의서</summary>
 
-- [요구사항 정의서.xlsx](report/요구사항정의서.xlsx)
+- [요구사항 정의서.xlsx](report/요구사항%20정의서.xlsx)
 
 </details>
 
@@ -64,23 +66,22 @@ Infra : ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style
 </details>
 
 <details>
-<summary>📕 모델 정의서</summary>
+<summary>📕 모델 정의서 & 성능평가서</summary>
 
-- [모델 정의서.pdf](report/모델정의서.pdf)
+- [모델 정의서 & 성능평가서.pdf](report/모델%20정의서%20%26%20성능평가서.pdf)
 
 </details>
 
 <details>
-<summary>📕 성능 평가 결과서</summary>
+<summary>📓 함수정의서</summary>
 
-- [성능 평가 결과서.pdf](report/성능평가결과서.pdf)
+- [함수정의서.pdf](report/함수정의서.pdf)
 
 </details>
 
 <details>
 <summary>📔 최종 보고서</summary>
 
-- [최종 보고서.pdf](report/최종보고서.pdf)
+- [최종 보고서.pdf](report/최종%20보고서.pdf)
 
 </details>
-
