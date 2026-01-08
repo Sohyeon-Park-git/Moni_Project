@@ -41,3 +41,46 @@ Infra : ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style
 <br/> <br/>
 
 # 📄 프로젝트 문서
+
+<details>
+<summary>📘 프로젝트 기획서</summary>
+
+- [프로젝트 기획서.pdf](report/프로젝트 기획서.pdf)
+
+</details>
+
+<details>
+<summary>📗 요구사항 정의서</summary>
+
+- [요구사항 정의서.xlsx](report/요구사항정의서.xlsx)
+
+</details>
+
+<details>
+<summary>📙 WBS</summary>
+
+- [WBS.xlsx](report/WBS.xlsx)
+
+</details>
+
+<details>
+<summary>📕 모델 정의서</summary>
+
+- [모델 정의서.pdf](report/모델정의서.pdf)
+
+</details>
+
+<details>
+<summary>📕 성능 평가 결과서</summary>
+
+- [성능 평가 결과서.pdf](report/성능평가결과서.pdf)
+
+</details>
+
+<details>
+<summary>📔 최종 보고서</summary>
+
+- [최종 보고서.pdf](report/최종보고서.pdf)
+
+</details>
+
