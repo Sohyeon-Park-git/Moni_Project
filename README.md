@@ -88,6 +88,6 @@ Infra : ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style
 <details>
 <summary> 최종 PPT</summary>
 
-
+- [최종 PPT.pdf](report/최종%20PPT.pdf)
 
 </details>
