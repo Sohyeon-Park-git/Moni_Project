@@ -12,6 +12,14 @@
 │ 기간 : 2025-10 ~ 2026-01
 <br/> <br/> <br/> 
 
+<details>
+<summary> Moni main Git </summary>
+
+- [Moni-git](https://github.com/Sohyeon-Park-git/Moni)
+
+</details>
+
+
 
 
 ## ☃️ 팀원 소개
