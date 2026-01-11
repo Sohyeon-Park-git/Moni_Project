@@ -27,7 +27,7 @@
 |-------|--------|--------|--------|
 | <img src="image/image_siha.png" width="150"/> | <img src="image/image_sohyeon.png" width="150"/> | <img src="image/image_danha.png" width="150"/> | <img src="image/image_yeeun.png" width="150"/> |
 | **팀장** | **테크 리더** | **Updating...** | **프로젝트 기획** |
-| - 데이터 엔지니어링<br>- 데이터 전처리 <br>& 데이터 분석<br>- AI & LLM 모델 개발<br>- 클라우드 개발 | - 프론트/백엔드 개발<br>- 데이터 엔지니어링<br>- 데이터 전처리 <br>& 데이터 분석<br>- AI 모델 개발 | - 프론트/백엔드 개발<br>- 데이터 시각화<br>- ML 모델 개발| - 프론트/백엔드 개발<br>- 데이터 시각화<br>- ML 모델 개발 |
+| - 데이터 엔지니어링<br>- 데이터 전처리 <br>& 데이터 분석<br>- AI & LLM 모델 개발<br>- 클라우드 개발 | - 프론트/백엔드 개발<br>- 데이터 엔지니어링<br>- 데이터 전처리 <br>& 데이터 분석<br>- AI 모델 개발<br>- 추천시스템 | - 프론트/백엔드 개발<br>- 데이터 시각화<br>- ML 모델 개발| - 프론트/백엔드 개발<br>- 데이터 시각화<br>- ML 모델 개발 |
 
 <br/> <br/>
 
